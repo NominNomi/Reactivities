@@ -23,7 +23,7 @@ export default observer(function ActivityForm() {
     const navigate = useNavigate();
 
     const[activity, setActivity] = useState<Activity>({
-        id: '',
+        id: '', 
         title: '',
         category: '',
         description: '',
