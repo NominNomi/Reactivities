@@ -2,8 +2,8 @@
 
 ## How to install from Terminal:
 
-mkdir NewFolder
-cd NewFolder
+### mkdir NewFolder
+### cd NewFolder
 git clone https://github.com/NominNomi/Reactivities.git
 cd Reactivities
 cd API
