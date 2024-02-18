@@ -1,6 +1,6 @@
-Activity management social media web app built with ASP.NetCore and React
+## Activity management social media web app built with ASP.NetCore and React
 
-<h2>How to install from Terminal:<h2/>
+## How to install from Terminal:
 
 mkdir NewFolder
 cd NewFolder
