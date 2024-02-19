@@ -1,7 +1,8 @@
 ### Activity management social media web app built with ASP.NetCore and React
 
 # Architecture
-![Architecture](https://github.com/NominNomi/Reactivities/assets/88373898/c8197fc5-391f-4b43-b83f-0cbd6cbe6bdf)
+![Architecture](https://github.com/NominNomi/Reactivities/assets/88373898/6547ef65-99ce-4f9d-b2ac-454c24148a5c)
+
 
 
 # Dependency Diagram
