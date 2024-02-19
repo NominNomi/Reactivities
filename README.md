@@ -2,7 +2,8 @@
 
 # Dependency Diagram
 
-![Dependency diagram](https://github.com/NominNomi/Reactivities/assets/88373898/7d763a9d-09a2-4abb-84dc-6844288d1f98)
+![Uploading Dependency diagram.jpeg…]()
+
 
 
 ## How to install from Terminal:
