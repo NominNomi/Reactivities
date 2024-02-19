@@ -1,6 +1,7 @@
 ### Activity management social media web app built with ASP.NetCore and React
 
-![Dependency Diagram][Dependency diagram.jpeg](https://github.com/NominNomi/Reactivities/blob/main/Dependency%20diagram.jpeg)
+![Dependency diagram](https://github.com/NominNomi/Reactivities/assets/88373898/7d763a9d-09a2-4abb-84dc-6844288d1f98)
+
 
 ## How to install from Terminal:
 
