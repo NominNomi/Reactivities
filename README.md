@@ -2,7 +2,8 @@
 
 # Dependency Diagram
 
-![Dependency diagram](https://github.com/NominNomi/Reactivities/assets/88373898/003fcfed-a1fd-4c13-8a0c-63e621272bdf)
+![Dependency diagram](https://github.com/NominNomi/Reactivities/assets/88373898/da961870-f9ba-4b8b-a95d-cbb71d01d26f)
+
 
 
 
