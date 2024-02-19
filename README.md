@@ -2,8 +2,9 @@
 
 ## How to install from Terminal:
 
-### mkdir NewFolder
-### cd NewFolder
+<sub>
+mkdir NewFolder
+cd NewFolder
 git clone https://github.com/NominNomi/Reactivities.git
 cd Reactivities
 cd API
@@ -13,6 +14,7 @@ cd client-app
 npm install vite
 npm start
 browser: http://localhost:3000
+<sub/>
 
 
 
