@@ -1,5 +1,6 @@
 ### Activity management social media web app built with ASP.NetCore and React
-![Uploading Dependency diagram.jpeg…]()
+
+![Dependency Diagram](Dependency diagram.jpeg)
 
 ## How to install from Terminal:
 
