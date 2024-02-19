@@ -4,7 +4,7 @@
 
 <sub>
 mkdir NewFolder <sub/>
-cd NewFolder
+<sub>cd NewFolder</sub> 
 git clone https://github.com/NominNomi/Reactivities.git
 cd Reactivities
 cd API
